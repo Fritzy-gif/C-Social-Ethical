@@ -1,0 +1,12 @@
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe.config
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\bin\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.pdb
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.csprojAssemblyReference.cache
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Form1.resources
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Properties.Resources.resources
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.csproj.GenerateResource.cache
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.csproj.CoreCompileInputs.cache
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.exe
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy Serrano - FINAL Multiple Choice Quiz.pdb
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Form2.resources
+C:\Users\fserrano\source\repos\Fritzy Serrano - FINAL Multiple Choice Quiz\obj\Debug\Fritzy_Serrano___FINAL_Multiple_Choice_Quiz.Form3.resources
